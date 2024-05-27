@@ -10,9 +10,9 @@ function make_album(artist, title, tracks) {
         tracks: tracks
     };
 }
-var album = make_album("Sajjad Ali", "Babia", 8);
-var album1 = make_album("Shehzad Roy", "Saali", 6);
-var album2 = make_album("Amir Saleem", "Ajnabi");
-console.log(album);
+var album1 = make_album("Sajjad Ali", "Babia", 8);
+var album2 = make_album("Shehzad Roy", "Saali", 6);
+var album3 = make_album("Amir Saleem", "Ajnabi");
 console.log(album1);
 console.log(album2);
+console.log(album3);
